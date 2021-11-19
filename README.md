@@ -23,3 +23,7 @@
 17. thinness 5-9 years: Prevalence of thinness among children for Age 5 to 9(%)
 18. Income composition of resources: Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
 19. Schooling: Number of years of Schooling(years)
+
+## Data Source
+The data source can be obtained via:
+1. Kaggel: https://www.kaggle.com/kumarajarshi/life-expectancy-who
